@@ -5,7 +5,7 @@ public class Java_Strings_Introduction {
         Scanner sc=new Scanner(System.in);
         String A=sc.next();
         String B=sc.next();
-        /* Enter your code here. Print output to STDOUT. */
+
 
         System.out.println(A.length() + B.length());
         if(A.compareTo(B) < 0 || A.compareTo(B) == 0 ){
